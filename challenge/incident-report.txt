@@ -1,0 +1,19 @@
+NEXUS DYNAMICS // INCIDENT REPORT
+Reference: BLACK VEIL
+
+A monitoring discrepancy was reported during the last
+nightly maintenance window.
+
+The initial review found:
+- An archive job executed with elevated privileges.
+- The ICE security system reported a telemetry warning.
+- No confirmed link between these events has been established.
+
+The workstation has been made available for further inspection.
+
+Please determine:
+1. Which services and scripts are involved in the archive job.
+2. Whether the current permissions are appropriate.
+3. Whether a low-privilege account can influence a privileged operation.
+
+Submit evidence supporting your conclusions.

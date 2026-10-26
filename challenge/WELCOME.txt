@@ -1,0 +1,32 @@
+NEXUS DYNAMICS // WORKSTATION NX-044
+===================================
+
+Welcome, maintenance contractor.
+
+Your session has been restored following an interruption
+during the previous maintenance window.
+
+An internal security incident has been reported. You have
+been asked to inspect the workstation and determine whether
+its maintenance services are configured correctly.
+
+INVESTIGATION NOTES
+-------------------
+
+- System logs are available under /opt/nexus/logs
+- Configuration files are available under /opt/nexus/config
+- Internal notes are available under /opt/nexus/intel
+- Maintenance scripts are available under /opt/nexus/scripts
+
+The archive synchronization service is installed on this
+workstation. Its execution and permissions may be relevant
+to the incident.
+
+Do not assume that every warning is related to the incident.
+Verify your findings against the actual system configuration.
+
+Your objective is to identify the cause of the incident and
+recover the protected protocol fragment.
+
+Good luck.
+NEXUS INTERNAL SYSTEMS

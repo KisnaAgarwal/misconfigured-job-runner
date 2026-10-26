@@ -1,0 +1,19 @@
+NEXUS DYNAMICS — RESTRICTED ARTIFACT INVENTORY
+
+Incident: BLACK VEIL
+
+The shutdown-protocol fragment was moved to the system
+administrator's private home directory during the incident.
+
+Artifact: black-ice-fragment.txt
+Classification: ROOT-RESTRICTED
+Purpose: Protocol recovery and incident verification
+
+Access to this artifact is restricted. The maintenance
+account is not authorized to read it directly.
+
+Investigators should determine whether the archive service
+has been configured in a way that could compromise this
+access boundary.
+
+End of inventory.

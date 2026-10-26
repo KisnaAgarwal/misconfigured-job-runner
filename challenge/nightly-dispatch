@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# NEXUS DYNAMICS - Nightly Job Dispatcher
+# Launches the archive synchronization task.
+
+exec /bin/bash /opt/nexus/archive-sync.sh
